@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Meu Nome é Alan Junio <strong>Suporte, Desenvolvimento</strong>.<br>
+  Olá! Meu Nome é Alan Junio <strong> DevOps, Infraestrutura </strong>.<br>
   Estou fazendo faculdade de Ciência da Computação, e também trabalhando com Suporte e Manutenção.
 </p>
 
